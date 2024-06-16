@@ -16,7 +16,7 @@ This project is a simple implementation of the classic Tic Tac Toe game using Re
  - Clone the repository:
 
 ```bash
-  git clone https://github.com/SubhammMoharana/Instagram-Clone
+  git clone https://github.com/Subham-Builds/Tic-Tac-Toe_React.js
 ```
  - Navigate to the folder:
 
