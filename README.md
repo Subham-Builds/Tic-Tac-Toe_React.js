@@ -21,7 +21,7 @@ This project is a simple implementation of the classic Tic Tac Toe game using Re
  - Navigate to the folder:
 
 ```bash
-  cd Tic-Tac-Toe
+  cd Tic-Tac-Toe_React.js
 ```
  - Run :
 
