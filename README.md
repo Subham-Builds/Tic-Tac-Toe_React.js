@@ -30,7 +30,8 @@ This project is a simple implementation of the classic Tic Tac Toe game using Re
 ```
 ## Screenshots
 
-![Screenshot](https://github.com/Subham-Builds/Tic-Tac-Toe_React.js/assets/121431904/50ffac5d-f31b-4f39-b929-dfa8d391e081)
+![Screenshot](https://github.com/Subham-Builds/Tic-Tac-Toe_React.js/assets/121431904/5f514dfc-4940-4f3c-9f95-4aa31a502e7b)
+
 
 
 
